@@ -2,4 +2,4 @@
 
 Homework #1
 
-https://vocage.github.io/goit-markup-hw-01/ https://technkly.com
+https://vocage.github.io/goit-markup-hw-01/
